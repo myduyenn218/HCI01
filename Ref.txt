@@ -1,0 +1,4 @@
+Material component for ReactJs: https://material-ui.com/
+Document for create-react-app: https://create-react-app.dev/
+Heroku deploy: https://github.com/mars/create-react-app-buildpack
+Center div in body: https://www.freecodecamp.org/news/how-to-center-things-with-style-in-css-dc87b7542689/
